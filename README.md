@@ -19,6 +19,8 @@ In short: my cyber security training portfolio. The goal is to go through a data
 ## Walk-in rooms/ labs (TryHackMe)
 
 1. Offensive Security Intro
+2. Defensive Security Intro
+
 
 ---
 
